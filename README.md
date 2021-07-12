@@ -1,4 +1,4 @@
-# python_crud_demo
+# Travel Planner
 
 A travel planner to manage plans for any future trips. This is one of several create, read, update, delete (CRUD) web apps I wrote in Python using the Django framework.
 
